@@ -1,0 +1,3 @@
+Performed customer base audit using Excel. 
+Applied tabulation and graphical analysis to evaluate customer behavior. 
+Used Excel tools for data preparation, frequency tables, and data visualization.
